@@ -1,0 +1,7 @@
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\bin\Debug\c#_tut_01.exe.config
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\bin\Debug\c#_tut_01.exe
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\bin\Debug\c#_tut_01.pdb
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\obj\Debug\c#_tut_01.csproj.AssemblyReference.cache
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\obj\Debug\c#_tut_01.csproj.CoreCompileInputs.cache
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\obj\Debug\c#_tut_01.exe
+C:\Users\sampr\OneDrive\Desktop\C#_tut\c#_tut_01\c#_tut_01\obj\Debug\c#_tut_01.pdb
